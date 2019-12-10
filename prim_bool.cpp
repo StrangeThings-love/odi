@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
 	bool b1 = false;
-	bool b2 = 0;
+	bool b2 = 1;
 	if (b1 == b2)
 		cout << "YES";
 	cout << endl;
